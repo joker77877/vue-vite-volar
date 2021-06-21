@@ -7,6 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@vitejs/plugin-vue-jsx": "^1.1.5",
     "@volar/experimental": "latest",
     "vue": "next"
   },
