@@ -9,11 +9,14 @@
   "dependencies": {
     "@vitejs/plugin-vue-jsx": "^1.1.5",
     "@volar/experimental": "latest",
+    "lodash-es": "^4.17.21",
     "vue": "next"
   },
   "devDependencies": {
+    "@types/lodash-es": "^4",
     "@vitejs/plugin-vue": "latest",
     "@vue/compiler-sfc": "latest",
+    "typescript": "^4.3.5",
     "vite": "latest",
     "vue-tsc": "latest"
   }

@@ -1,5 +1,6 @@
 {
-    "recommendations": [
-        "johnsoncodehk.volar"
-    ]
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "arcanis.vscode-zipfs"
+  ]
 }
